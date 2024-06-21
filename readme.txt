@@ -1,1 +1,3 @@
-One of the most common support requests I get for NAudio is how it can be used for streaming MP3. Whilst all the requisite bits and pieces are present in NAudio, there has been no good example of how to do this. For NAudio 1.5 I will be rectifying this to include an example in the NAudioDemo application, and have made a few enhancements to the classes in NAudio to make this easier to implement. In this article I will explain how streaming MP3 playback is implemented in the NAudioDemo application.
+Sample Python text-to-speech script.
+
+Will read whatever you paste into this readme.txt file.
